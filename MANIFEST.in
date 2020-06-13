@@ -1,4 +1,0 @@
-include *.txt
-recursive-include cloudinary/templates *.html
-recursive-include cloudinary/static *.html *.js
-prune django_tests
